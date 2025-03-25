@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel Task Management System
 
 In this repo I developed a Task Management System with Laravel 11. You can control or contribute to the use of Model, Ajax, Controller.
@@ -97,3 +98,6 @@ If you find this project useful and would like to support its development, you c
 ## License
 This project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
 .
+=======
+# sycarda
+>>>>>>> 17deaa1c07f542719d0308fd0818ced4f6c828a5
